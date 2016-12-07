@@ -7,7 +7,7 @@
 	
 	"background": {
 		"scripts": ["background.js"],
-		"permissions": false
+		"persistent": false
 	},
 	
 	"permissions": [
