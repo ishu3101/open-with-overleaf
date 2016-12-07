@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Open with Overleaf",
+	"version": "1.0",
+	"description": "Open with Overleaf allows you to open/edit latex files online using www.overleaf.com without the need of any software to be installed.",
+	
+	"background": {
+		"scripts": ["background.js"],
+		"permissions": false
+	},
+	
+	"permissions": [
+		"contextMenus"
+	]
+}
