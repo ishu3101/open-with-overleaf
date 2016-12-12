@@ -16,6 +16,8 @@
         "persistent": false
     },
 
+    "homepage_url": "https://github.com/ishu3101/open-with-overleaf",
+
     "permissions": [
         "contextMenus"
     ]
