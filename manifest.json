@@ -3,7 +3,7 @@
 
     "name": "Open with Overleaf",
     "version": "1.0",
-    "description": "Open with Overleaf allows you to open/edit latex files online using www.overleaf.com without the need of any software to be installed.",
+    "description": "Open/edit latex files online using www.overleaf.com without the need of any software to be installed on your computer",
 
     "icons": {
         "16": "img/icon_16.png",
