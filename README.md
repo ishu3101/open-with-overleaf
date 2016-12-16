@@ -18,5 +18,15 @@ A Google Chrome extension that allows you to open/edit latex files online using 
 
 **Note: The context menu is only shown when you right click on a link**
 
+## Supported File Types
+
+Supporting files can be in the following formats:
+
+* **Figures**: *.pdf, .jpeg, .png*
+* **Bibliography**: *.bib, .bst*
+* **Styles, packages and classes**: *.sty, .cls, .clo*
+* **LaTeX include files**: *.tex*
+* **Data files**: *.dat, .txt, .csv, .tsv*
+* **Source listings**: *.py, .m, .R, .rb, .erl (Python, MATLAB, R, Ruby, Erlang)*
 
 [Demo]: demo.gif "Demo"
